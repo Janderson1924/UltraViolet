@@ -1,6 +1,6 @@
 ## UltraViolet Resource Wall
 
-UltraViolet is a Pinterest-style Resource Wall meant for saving all your favourite links in one place!
+UltraViolet is a Pinterest-style resource wall meant for saving all your favourite links in one place!
 
 
 ## Screenshots
